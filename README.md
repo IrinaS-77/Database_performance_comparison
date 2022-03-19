@@ -5,7 +5,7 @@ Database performance comparison: local, cloud and docker mongoDB on Python.
 Install dependencies:
 `pip install pymongo`
 
-## consts
+## Consts
 create your own consts file with ips, ports and mongo cloud connection link
 
 ## Run program
