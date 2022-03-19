@@ -6,7 +6,7 @@ Install dependencies:
 `pip install pymongo`
 
 ## Consts
-create your own consts file with ips, ports and mongo cloud connection link
+Create your own consts file with ips, ports and mongo cloud connection link
 
 ## Run program
-run main.py
+Run main.py
