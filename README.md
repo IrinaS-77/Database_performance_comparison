@@ -8,5 +8,5 @@ Install dependencies:
 ## consts
 create your own consts file with ips, ports and mongo cloud connection link
 
-##Run program
+## Run program
 run main.py
